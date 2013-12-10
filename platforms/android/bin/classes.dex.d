@@ -1,0 +1,20 @@
+/Users/derek/scydev/book/platforms/android/bin/classes.dex : \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/phonegap/plugins/barcodescanner/BarcodeScanner.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/Book.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/BuildConfig.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$array.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$attr.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$color.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$dimen.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$drawable.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$id.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$layout.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$menu.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$raw.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$string.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R$xml.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/com/scydev/book/R.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/org/apache/cordova/device/Device$1.class \
+/Users/derek/scydev/book/platforms/android/bin/classes/org/apache/cordova/device/Device.class \
+/Users/derek/scydev/book/platforms/android/bin/dexedLibs/cordova-3.1.0-553f9faca1bba34eec795c7dd75e0a9f.jar \
+/Users/derek/scydev/book/platforms/android/bin/dexedLibs/com.google.zxing.client.android.captureactivity-2bbe700dfa8be75288369a86770e64ca.jar \

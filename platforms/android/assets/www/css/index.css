@@ -1,0 +1,107 @@
+body {
+margin: 0;
+padding: 0;
+}
+
+::-webkit-input-placeholder {
+color: white;
+}
+
+input {
+border-radius: 0;
+-webkit-appearance: none;
+border: none;
+height: 50px;
+line-height: 50px;
+text-align:center;
+color: white;
+margin: 0;
+padding: 0;
+vertical-align: middle;
+-webkit-user-select: auto !important;
+}
+
+* {
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+}
+
+#navbar {
+padding: 20px 0 10px 0;
+width: 100%;
+background-color: #303136;
+text-align:center;
+}
+
+#navbar span {
+display:inline-block;
+margin: 0 auto 0 auto;
+font-family: Verdana;
+font-size: 25px;
+padding: 10px;
+color: white;
+text-align:center;
+}
+
+#add-book {
+float:right;
+font-size: 30px;
+font-family: Arial;
+color: white;
+margin: 0 10px;
+padding: 10px;
+}
+
+#query-container {
+width: 100%;
+margin: 1% 0 1% 0;
+}
+
+#query {
+float:left;
+width: 70%;
+background-color: #13ACAA;
+font-size: 20px;
+font-family: Arial;
+}
+
+#query-button {
+float:right;
+width: 29%;
+margin-left: 1%;
+font-family: Arial;
+background-color: #275D67;
+}
+
+.result-box {
+position: relative;
+padding: 3%;
+width: 94%;
+border-bottom: 1px solid #13ACAA;
+font-family: Arial;
+}
+
+.result-title {
+font-size: 16px;
+}
+
+.result-author, .result-isbn {
+font-size: 10px;
+}
+
+.arrow-right {
+position: absolute;
+right: 3%;
+top: calc(50% - 8px);
+width: 0;
+height: 0; 
+border-top: 8px solid transparent;
+border-bottom: 8px solid transparent;
+border-left: 8px solid #13ACAA;
+}
+
+#loading-container {
+width: 100%;
+text-align:center;
+margin-top: 40%;
+}
